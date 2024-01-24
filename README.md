@@ -15,3 +15,6 @@ Note: https://education.github.com/git-cheat-sheet-education.pdf
 
 7. git push -u origin main: here commited data in main branch pushed to origin by user(-u).
 
+8. git pull origin main: use to get the changes from remote origin to main repo.
+
+Note: In case your changes conflicts with the changes already done it will show you error while pushing that is resolved by pulling the changes and resolve the conflict with the user previously change the code block.
