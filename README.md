@@ -13,5 +13,5 @@ Note: https://education.github.com/git-cheat-sheet-education.pdf
 
 6. git remote -v: one can see the origin to the repository.
 
-7. git push -u origin main: here commited data in main branch pushed to origin.
+7. git push -u origin main: here commited data in main branch pushed to origin by user(-u).
 
